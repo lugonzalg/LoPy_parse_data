@@ -1,7 +1,7 @@
 # LoPy_parse_data
 Device -> LoPy (UART)
 
-bash´´´
+´´´bash
 
 parse_info/
 └── main.py
